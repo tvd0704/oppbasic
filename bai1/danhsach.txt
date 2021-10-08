@@ -1,0 +1,12 @@
+
+id:KUUTs
+birthday:07/04/1998
+gioitinh:nam
+
+id:GCoRb
+birthday:12/3/1999
+gioitinh:nam
+
+id:lsaqv
+birthday:07/04/2000
+gioitinh:nam
